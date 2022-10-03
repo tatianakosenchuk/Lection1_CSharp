@@ -1,0 +1,17 @@
+﻿int NumberZ = 43;
+int NumberV = 59;
+int NumberZ1 = 36;
+int NumberV1 = 45;
+int NumberZ2 = 13;
+int NumberV2 = 105;
+int NumberZ3 = 388;
+int NumberV3 = 54;
+int max = NumberZ;
+if (NumberV > max) max = NumberV;
+if (NumberV1 > max) max = NumberV1;
+if (NumberV2 > max) max = NumberV2;
+if (NumberV3 > max) max = NumberV3;
+if (NumberZ1 > max) max = NumberZ1;
+if (NumberZ2 > max) max = NumberZ2;
+if (NumberZ3 > max) max = NumberZ3;
+Console.WriteLine(max);

@@ -1,0 +1,15 @@
+/home/eksdya/Рабочий стол/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.csproj.AssemblyReference.cache
+/home/eksdya/Рабочий стол/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+/home/eksdya/Рабочий стол/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.AssemblyInfoInputs.cache
+/home/eksdya/Рабочий стол/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.AssemblyInfo.cs
+/home/eksdya/Рабочий стол/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.csproj.CoreCompileInputs.cache
+/home/eksdya/Рабочий стол/Examples/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser
+/home/eksdya/Рабочий стол/Examples/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.deps.json
+/home/eksdya/Рабочий стол/Examples/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.runtimeconfig.json
+/home/eksdya/Рабочий стол/Examples/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.dll
+/home/eksdya/Рабочий стол/Examples/Example002_HelloUser/bin/Debug/net6.0/ref/Example002_HelloUser.dll
+/home/eksdya/Рабочий стол/Examples/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.pdb
+/home/eksdya/Рабочий стол/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.dll
+/home/eksdya/Рабочий стол/Examples/Example002_HelloUser/obj/Debug/net6.0/ref/Example002_HelloUser.dll
+/home/eksdya/Рабочий стол/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.pdb
+/home/eksdya/Рабочий стол/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.genruntimeconfig.cache
